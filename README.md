@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/E6jscXfv3AkWQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cat-typing-E6jscXfv3AkWQ"></a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
+<img src="https://giphy.com/embed/E6jscXfv3AkWQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen/>
+</div>
+
 <!--
 **SebasGTX1/SebasGTX1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
