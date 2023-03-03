@@ -1,13 +1,10 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm SebasGTX1</h1>
+    <h1 align="center">Hi 👋, I'm Sebastian García Tamayo</h1>
+    <h3 align="center">A passionate developer from Colombia at Movi Software S.A.</h3>
 </div>
 
-<h1 align="center">Hi 👋, I'm Sebastian García Tamayo</h1>
-<h3 align="center">A passionate developer from Colombia at Movi Software S.A.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebasgtx1&label=Profile%20views&color=0e75b6&style=flat" alt="sebasgtx1" /> </p>
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebasgtx1" alt="sebasgtx1" /></a> </p>
 
@@ -39,4 +36,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebasgtx1&show_icons=true&locale=en&layout=compact" alt="sebasgtx1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebasgtx1&show_icons=true&locale=en" alt="sebasgtx1" /></p>
-
