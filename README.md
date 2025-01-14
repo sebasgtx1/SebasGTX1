@@ -10,8 +10,6 @@
 
 - 🔭 I’m currently working on **MoviSoftware**
 
-- 🌱 I’m currently learning **Django and Kubernets**
-
 - 👯 I’m looking to collaborate on **Python or Node BackEnd projects**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/sebastiangtmyo/](https://www.linkedin.com/in/sebastiangtmyo/)
